@@ -1,0 +1,70 @@
+Script Start at : Thu Sep  7 10:02:25 2017
+
+
+Going to Test  ['init', '1', 'discover', '1', 'get', '5']
+
+connecting to mysql database
+
+
+..................initilizing .................
+
+client is intialized with mode type as client
+Delete All Tables before Discovering Devices  0
+Discovering Resources:
+result: 0 
+Thread created for client observe
+Waiting
+****************************************************
+Resource name: /a/light
+Resource handle: 0x7f1770000c60 
+****************************************************
+
+in sleep in python after discovery
+****************************************
+Resource_Name : /a/light
+Resource_Handle : 0x7f1770000c60
+****************************************
+
+..................Going to GET Device Information...............
+****************************************
+Resource_Name : /a/light
+Resource_Handle : 0x7f1770000c60
+****************************************
+
+Information of Device handle :  0x7f1770000c60
+
+..................Going to GET Device Information...............
+****************************************
+Resource_Name : /a/light
+Resource_Handle : 0x7f1770000c60
+****************************************
+
+Information of Device handle :  0x7f1770000c60
+
+..................Going to GET Device Information...............
+****************************************
+Resource_Name : /a/light
+Resource_Handle : 0x7f1770000c60
+****************************************
+
+Information of Device handle :  0x7f1770000c60
+
+..................Going to GET Device Information...............
+****************************************
+Resource_Name : /a/light
+Resource_Handle : 0x7f1770000c60
+****************************************
+
+Information of Device handle :  0x7f1770000c60
+
+..................Going to GET Device Information...............
+****************************************
+Resource_Name : /a/light
+Resource_Handle : 0x7f1770000c60
+****************************************
+
+Information of Device handle :  0x7f1770000c60
+
+Disconnecting from mysql database****
+
+Script End at : Thu Sep  7 10:03:04 2017
